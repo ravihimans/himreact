@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/himreact/static/css/main.073c9b0a.css",
+    "main.js": "/himreact/static/js/main.92793e33.js",
+    "static/js/787.cbc5b9e4.chunk.js": "/himreact/static/js/787.cbc5b9e4.chunk.js",
+    "index.html": "/himreact/index.html",
+    "main.073c9b0a.css.map": "/himreact/static/css/main.073c9b0a.css.map",
+    "main.92793e33.js.map": "/himreact/static/js/main.92793e33.js.map",
+    "787.cbc5b9e4.chunk.js.map": "/himreact/static/js/787.cbc5b9e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.92793e33.js"
+  ]
+}
